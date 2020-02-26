@@ -19,4 +19,4 @@ Liste des différentes fonctionnalités:
 
 ## Affichage
 
-Une partie du blog sera visible par tous et une autre uniquement pour les modérateurs.
+Une partie du blog sera visible par tous et une autre uniquement par les modérateurs.
